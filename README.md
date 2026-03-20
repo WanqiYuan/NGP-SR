@@ -1,4 +1,4 @@
-# NGP-SR
+# Generalizable-NGP-SR
 
 Official PyTorch implementation of **NGP-SR**. This repository provides training code for DTU and Blender/LLFF datasets.
 

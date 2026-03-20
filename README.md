@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of **NGP-SR**. This repository provides training code for DTU and Blender/LLFF datasets.
 
-[[Project page]](https://wanqiyuan.github.io/NGPSR-project-page/)
+[[Project page]](https://wanqiyuan.github.io/Generalizable-NGP-SR/)
 
 
 ---
